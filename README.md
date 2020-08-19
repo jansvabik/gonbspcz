@@ -1,2 +1,2 @@
 # gonbspcz
-Go library for replacing spaces by unbreakable spaces where they should be according to Czech typographical rules.
+Go package for replacing spaces by unbreakable spaces where they should be according to the Czech typographical rules.
