@@ -14,7 +14,7 @@ var list = []setup{
 	setup{regex: `^(A|I|O|U|K|S|V|Z) `, replacement: "$1 "},
 	setup{regex: ` (A|I|O|U|K|S|V|Z|a|i|o|u|k|s|v|z) `, replacement: " $1 "},
 	setup{regex: `(\d\.) `, replacement: "$1 "},
-	setup{regex: `([A-Z].) `, replacement: "$1 "},
+	setup{regex: `([A-Z]\.) `, replacement: "$1 "},
 }
 
 // Replace will retrieve the original string and return the modified one
