@@ -1,4 +1,4 @@
-# Non-breakable space auto-adder for Golang
+# (Czech-only) Non-breakable space auto-adder for Golang
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/jansvabik/gonbspcz)](https://goreportcard.com/report/github.com/jansvabik/gonbspcz)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
